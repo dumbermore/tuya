@@ -1317,7 +1317,7 @@ nmcli dev wifi connect "iotlab" password "labiot123"
 <br>
 
 ## Impact
-Beken bk7231 based devices like Aziot 1Node Smart Switch v1.1.9 allows sensitive data disclosure via UART interfece with physical access, through excessive logs or unencrypted, extractable firmware.
+Beken bk7231 based devices like Aziot 1Node Smart Switch v1.1.9 allows sensitive data disclosure via UART interfece with physical access, through excessive logs and unencrypted, extractable firmware.
 
 ---
 <br>
