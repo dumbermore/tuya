@@ -1313,6 +1313,20 @@ iotlab
 ```bash
 nmcli dev wifi connect "iotlab" password "labiot123"
 ```
+---
+<br>
+
+## Impact
+Beken bk7231 based devices like Aziot 1Node Smart Switch v1.1.9 allows sensitive data disclosure via UART interfece with physical access, through excessive logs or unencrypted, extractable firmware.
+
+---
+<br>
+
+## CVSS 
+#### CVSS 7 High
+CVSS:4.0/AV:P/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N
+
+---
 <br>
 
 ## Credits
