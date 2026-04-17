@@ -2,9 +2,11 @@
 
 ## Affected Device(s)
 
-<a href="https://www.aziot.life/collections/smart-switches/products/aziot-1-node16amp-smart-switch-wifi-bluetooth-communication-made-in-india-timer-function-works-with-google-home-and-amazon-alexa">
-  <img src="https://github.com/dumbermore/tuya/blob/main/assets/1_NODE.png?raw=true" width="200" alt="AZIOT 1 NODE">
-</a>
+<p align="center">
+  <a href="https://www.aziot.life/collections/smart-switches/products/aziot-1-node16amp-smart-switch-wifi-bluetooth-communication-made-in-india-timer-function-works-with-google-home-and-amazon-alexa">
+    <img src="https://github.com/dumbermore/tuya/blob/main/assets/1_NODE.png?raw=true" width="500" alt="AZIOT 1 NODE">
+  </a>
+</p>
 
 #### [CVE-2026-30613](https://www.cve.org/CVERecord/SearchResults?query=CVE-2026-30613)
 
@@ -1323,8 +1325,8 @@ Beken bk7231 based devices like Aziot 1Node Smart Switch v1.1.9 allows sensitive
 <br>
 
 ## CVSS 
-#### CVSS 7 High
-CVSS:4.0/AV:P/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N
+#### CVSS 4.6 Medium
+CVSS:3.1/AV:P/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N
 
 ---
 <br>
